@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cache Creek</string>
+    <string name="clear_button">CLEAR</string>
+    <string name="current_storage">Current Storage:</string>
+    <string name="storage_icon">storage icon</string>
+    <string name="mb">MB</string>
+    <string name="storage_before">Storage before: %1$d</string>
+    <string name="storage_after">Storage after: %1$d</string>
+    <string name="congratulations">Congratulations! You saved %dMB</string>
+</resources>
